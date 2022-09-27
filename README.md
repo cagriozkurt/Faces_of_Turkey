@@ -21,6 +21,8 @@ I used pictures of male football players scraped from [Transfermarkt](https://tr
 
 ## Gallery
 
+![Gallery](gallery.jpg)
+
 You can find the pictures separately in `averages` directory.
 
 ## Possible limitations
